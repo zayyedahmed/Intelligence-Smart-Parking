@@ -4,7 +4,7 @@ Project ini bertujuan untuk mendeteksi spot parkir yang kosong, Face Detection d
 
 ## Hasil
 ## Empty Parking Spot Detection
-![xx](https://https://github.com/zayyedahmed/Intelligence-Smart-Parking/blob/main/Res1.png)
+![xx](https://github.com/zayyedahmed/Intelligence-Smart-Parking/blob/main/Res1.png)
 ## Drowsiness Detection
 ![xx](https://github.com/zayyedahmed/Intelligence-Smart-Parking/blob/main/Res2.png)
 ## Plate Number Detection
